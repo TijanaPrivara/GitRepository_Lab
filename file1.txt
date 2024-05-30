@@ -1,4 +1,8 @@
 Hello world
 This is changed....
 Another line in fevelopment branch
+<<<<<<< HEAD
 Conflict in master
+=======
+conflict in dev
+>>>>>>> development
